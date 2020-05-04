@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/who-is-that-pokemon/static/css/main.b3349fbe.chunk.css",
-    "main.js": "/who-is-that-pokemon/static/js/main.e4270f6c.chunk.js",
-    "main.js.map": "/who-is-that-pokemon/static/js/main.e4270f6c.chunk.js.map",
+    "main.js": "/who-is-that-pokemon/static/js/main.2ae3d644.chunk.js",
+    "main.js.map": "/who-is-that-pokemon/static/js/main.2ae3d644.chunk.js.map",
     "runtime-main.js": "/who-is-that-pokemon/static/js/runtime-main.f5475e56.js",
     "runtime-main.js.map": "/who-is-that-pokemon/static/js/runtime-main.f5475e56.js.map",
     "static/js/2.e85efd90.chunk.js": "/who-is-that-pokemon/static/js/2.e85efd90.chunk.js",
     "static/js/2.e85efd90.chunk.js.map": "/who-is-that-pokemon/static/js/2.e85efd90.chunk.js.map",
     "index.html": "/who-is-that-pokemon/index.html",
-    "precache-manifest.aa40b30a2276989b085c91efd72dcba2.js": "/who-is-that-pokemon/precache-manifest.aa40b30a2276989b085c91efd72dcba2.js",
+    "precache-manifest.f3d79bcf57753e92be3dc572245fdb04.js": "/who-is-that-pokemon/precache-manifest.f3d79bcf57753e92be3dc572245fdb04.js",
     "service-worker.js": "/who-is-that-pokemon/service-worker.js",
     "static/css/main.b3349fbe.chunk.css.map": "/who-is-that-pokemon/static/css/main.b3349fbe.chunk.css.map",
     "static/js/2.e85efd90.chunk.js.LICENSE.txt": "/who-is-that-pokemon/static/js/2.e85efd90.chunk.js.LICENSE.txt",
@@ -918,6 +918,6 @@
     "static/js/runtime-main.f5475e56.js",
     "static/js/2.e85efd90.chunk.js",
     "static/css/main.b3349fbe.chunk.css",
-    "static/js/main.e4270f6c.chunk.js"
+    "static/js/main.2ae3d644.chunk.js"
   ]
 }

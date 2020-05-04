@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ceb16f567c61392ae246be4a93bfb05",
+    "revision": "c3927f9fdc61864362d8d289f7306a33",
     "url": "/who-is-that-pokemon/index.html"
   },
   {
-    "revision": "b392b264406c7eccc9d7",
+    "revision": "fdd006225b206e3905ac",
     "url": "/who-is-that-pokemon/static/css/main.b3349fbe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/who-is-that-pokemon/static/js/2.e85efd90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b392b264406c7eccc9d7",
-    "url": "/who-is-that-pokemon/static/js/main.e4270f6c.chunk.js"
+    "revision": "fdd006225b206e3905ac",
+    "url": "/who-is-that-pokemon/static/js/main.2ae3d644.chunk.js"
   },
   {
     "revision": "69972ef3849b84dcded7",
