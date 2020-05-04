@@ -19,7 +19,7 @@ class Button extends Component {
         //when any button is clicked wait for 2s and re-load the whole page
         setTimeout(() => {
             window.location.reload(false)
-        }, 2000);
+        }, 3000);
     }
 
     render(){
